@@ -1,0 +1,1 @@
+execute if entity @s[scores={Pont.1=..0}] anchored eyes run particle white_ash ^ ^ ^ 0.1 0.1 0.1 0.8 10 force @a

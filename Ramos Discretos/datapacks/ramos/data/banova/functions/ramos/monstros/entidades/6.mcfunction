@@ -1,0 +1,1 @@
+data merge entity @s {Health: 84f, Tags: ["monstro", "toupeira"], Attributes: [{Name: "generic.max_health", Base: 84}, {Name: "generic.knockback_resistance", Base: 0.0d}, {Name: "generic.movement_speed", Base: 0.23d}, {Name: "generic.attack_damage", Base: 4}, {Name: "generic.armor", Base: 0}], PersistenceRequired: 1b, DeathLootTable: "banova:ramos/entidades"}

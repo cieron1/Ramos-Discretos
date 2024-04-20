@@ -1,0 +1,4 @@
+execute unless entity @p[gamemode=!spectator,gamemode=!creative,distance=..20] facing entity @p[gamemode=!spectator,gamemode=!creative] eyes rotated ~ 0 run tp ^ ^0.05 ^.5
+execute as @s[scores={Pont.1=..0}] if entity @p[gamemode=!spectator,gamemode=!creative,distance=..16] facing entity @p[gamemode=!spectator,gamemode=!creative] eyes rotated ~ 0 run tp ^ ^ ^.85
+execute as @s[scores={Pont.1=..0}] if entity @p[gamemode=!spectator,gamemode=!creative,distance=..16] run playsound minecraft:entity.allay.item_taken hostile @a ~ ~ ~ 3 2
+execute if score @s Pont.1 matches ..0 run scoreboard players set @s Pont.1 60

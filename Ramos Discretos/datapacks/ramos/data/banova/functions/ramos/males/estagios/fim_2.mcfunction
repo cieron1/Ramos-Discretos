@@ -1,0 +1,8 @@
+tag @e[type=marker,tag=male,tag=!estagio_2] add estagio_2
+#
+summon enderman ~ ~ ~ {Silent: 1b, DeathLootTable: "banova:ramos/vazio", PersistenceRequired: 1b, Health: 1f, Tags: ["deleta", "criatura_fim", "criatura"], CustomName: '{"text":"o que lhe observava...","italic":false}', active_effects: [{id: "minecraft:invisibility", amplifier: 0b, duration: -1, show_particles: 0b}, {id: "minecraft:slow_falling", amplifier: 0b, duration: -1, show_particles: 0b}], Attributes: [{Name: "generic.max_health", Base: 1}, {Name: "generic.attack_damage", Base: 4}]}
+summon enderman ~ ~ ~ {Silent: 1b, DeathLootTable: "banova:ramos/vazio", PersistenceRequired: 1b, Health: 1f, Tags: ["deleta", "criatura_fim", "criatura"], CustomName: '{"text":"o que lhe observava...","italic":false}', active_effects: [{id: "minecraft:invisibility", amplifier: 0b, duration: -1, show_particles: 0b}, {id: "minecraft:slow_falling", amplifier: 0b, duration: -1, show_particles: 0b}], Attributes: [{Name: "generic.max_health", Base: 1}, {Name: "generic.attack_damage", Base: 4}]}
+summon enderman ~ ~ ~ {Silent: 1b, DeathLootTable: "banova:ramos/vazio", PersistenceRequired: 1b, Health: 1f, Tags: ["deleta", "criatura_fim", "criatura"], CustomName: '{"text":"o que lhe observava...","italic":false}', active_effects: [{id: "minecraft:invisibility", amplifier: 0b, duration: -1, show_particles: 0b}, {id: "minecraft:slow_falling", amplifier: 0b, duration: -1, show_particles: 0b}], Attributes: [{Name: "generic.max_health", Base: 1}, {Name: "generic.attack_damage", Base: 4}]}
+spreadplayers 0 0 1 64 under 100 false @e[tag=criatura_fim]
+#
+execute if entity @e[type=marker,tag=male] run schedule function banova:ramos/males/estagios/fim_2 300s

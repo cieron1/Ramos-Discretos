@@ -1,0 +1,22 @@
+fillbiome -64 62 -64 63 63 63 snowy_plains replace plains
+fillbiome -64 64 -64 63 65 63 snowy_plains replace plains
+fillbiome -64 66 -64 63 67 63 snowy_plains replace plains
+fillbiome -64 68 -64 63 69 63 snowy_plains replace plains
+fillbiome -64 70 -64 63 71 63 snowy_plains replace plains
+fillbiome -64 72 -64 63 72 63 snowy_plains replace plains
+fillbiome -64 73 -64 63 73 63 snowy_plains replace plains
+fillbiome -64 74 -64 63 75 63 snowy_plains replace plains
+fillbiome -64 76 -64 63 77 63 snowy_plains replace plains
+fillbiome -64 78 -64 63 79 63 snowy_plains replace plains
+fillbiome -64 80 -64 63 81 63 snowy_plains replace plains
+fillbiome -64 82 -64 63 83 63 snowy_plains replace plains
+fillbiome -64 84 -64 63 85 63 snowy_plains replace plains
+fillbiome -64 86 -64 63 87 63 snowy_plains replace plains
+fillbiome -64 88 -64 63 89 63 snowy_plains replace plains
+fillbiome -64 90 -64 63 91 63 snowy_plains replace plains
+fillbiome -64 92 -64 63 93 63 snowy_plains replace plains
+#
+fillbiome 65 62 -65 64 93 64 snowy_plains replace plains
+fillbiome 64 62 65 -65 93 64 snowy_plains replace plains
+fillbiome -66 62 64 -65 93 -65 snowy_plains replace plains
+fillbiome -65 62 -66 64 93 -65 snowy_plains replace plains

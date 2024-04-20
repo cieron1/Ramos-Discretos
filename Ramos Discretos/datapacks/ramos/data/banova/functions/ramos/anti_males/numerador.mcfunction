@@ -1,0 +1,6 @@
+execute unless entity @e[tag=male,type=marker] run title @s actionbar [{"text":"Não há male no momento","color":"aqua"}]
+execute if score .male_estagio Tempo matches 0 run title @s actionbar [{"score":{"name":"@e[type=marker,limit=1,tag=male]","objective":"Pont.3"},"color":"aqua","italic":false},{"text":" blocos ()","color":"green"}]
+execute if score .male_estagio Tempo matches 1 run title @s actionbar [{"score":{"name":"@e[type=marker,limit=1,tag=male]","objective":"Pont.3"},"color":"aqua","italic":false},{"text":" blocos (I)","color":"green"}]
+execute if score .male_estagio Tempo matches 2 run title @s actionbar [{"score":{"name":"@e[type=marker,limit=1,tag=male]","objective":"Pont.3"},"color":"aqua","italic":false},{"text":" blocos (II)","color":"yellow"}]
+execute if score .male_estagio Tempo matches 3 run title @s actionbar [{"score":{"name":"@e[type=marker,limit=1,tag=male]","objective":"Pont.3"},"color":"aqua","italic":false},{"text":" blocos (III)","color":"orange"}]
+execute if score .male_estagio Tempo matches 4 run title @s actionbar [{"score":{"name":"@e[type=marker,limit=1,tag=male]","objective":"Pont.3"},"color":"aqua","italic":false},{"text":" blocos (IV)","color":"dark_red"}]
