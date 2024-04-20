@@ -7,12 +7,12 @@ Inicialmente essas criaturas são imunes e observáveis apenas pelo mapa, para q
 Um machado, espada ou arco são as melhores opções para lutar contra elas.
 Lembre de colocar tochas em sua base e ao redor dela, essas entidades não gostam de surgir na luz. A cada noite mais criaturas aparecerão, então se prepare!
 
-![Uma Criatura]()
+![Uma Criatura](./entidade.png)
 
 ## Males
 Após um certo tempo na partida seu mundo começará a ser corrompido por um male (mal + a letra e para parecer arcaico, não confundir com malê). Para se proteger de seus piores efeitos certos itens deverão ser utilizados.
 
-![Um Male]()
+![Um Male](./male.png)
 
 ##### Atrasa Male (eu não tenho criatividade com nomes):
 Consegue parar a transformação dos blocos por 1 minuto, embora a solução continue sendo cortar o male pela raiz. Receita: 2 ouros, 2 vidros, 1 tijolo e 4 farinhas de osso. Tem a aparência de uma estrela do nether.
