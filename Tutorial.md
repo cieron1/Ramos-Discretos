@@ -24,7 +24,7 @@ Consegue desacelerar o male atual, fazendo com que este demore mais para gerar b
 Mostra o nível do estrago (exemplo: "374 blocos (1)" significaria que 374 blocos foram corrompidos e o problema está em seu primeiro estágio). Receita: 6 pepitas de ferro, 2 barras de ouro e 1 terra. Tem a aparência de um relógio.
 
 ##### Extra:
-Considerando os itens mencionados acima, é recomendado fabricar apenas 1 item por vez, porque o meu código é ruim (eu queria que isso fosse uma piada).
+Considerando os itens mencionados acima, é recomendado fabricar apenas 1 item por vez, porque o meu código é ruim (eu queria que isso fosse uma piada, mas não é).
 
 ## Modos
 Antes de iniciar uma partida é possível escolher entre grupos diferentes de recursos para alterar como funcionará sua partida.
