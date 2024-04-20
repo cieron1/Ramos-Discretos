@@ -1,0 +1,16 @@
+execute as @s at @s run function banova:ramos/gera/partes/grama1
+execute as @s at @s run function banova:ramos/gera/partes/grama1
+execute as @s at @s run function banova:ramos/gera/partes/grama1
+execute as @s at @s run function banova:ramos/gera/partes/grama1
+execute as @s at @s run function banova:ramos/gera/partes/grama2
+execute as @s at @s run function banova:ramos/gera/partes/grama2
+execute as @s at @s run function banova:ramos/gera/partes/grama2
+execute as @s at @s run function banova:ramos/gera/partes/grama2
+execute as @s at @s run function banova:ramos/gera/partes/grama3
+execute as @s at @s run function banova:ramos/gera/partes/grama3
+execute as @s at @s run function banova:ramos/gera/partes/grama3
+execute as @s at @s run function banova:ramos/gera/partes/grama3
+execute as @s at @s run function banova:ramos/gera/partes/grama4
+execute as @s at @s run function banova:ramos/gera/partes/grama4
+execute as @s at @s run function banova:ramos/gera/partes/grama4
+execute as @s at @s run function banova:ramos/gera/partes/grama4

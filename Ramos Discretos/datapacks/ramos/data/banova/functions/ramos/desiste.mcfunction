@@ -1,0 +1,2 @@
+scoreboard players enable @s desiste
+tellraw @s [{"text":"Caso queira desistir da partida ","color":"green","clickEvent":{"action":"run_command","value":"/trigger desiste set 1"}},{"text":"[Clique Aqui]","color":"gold","clickEvent":{"action":"run_command","value":"/trigger desiste set 1"}}]
