@@ -1,0 +1,17 @@
+{
+    "values": [
+        "minecraft:polished_deepslate",
+        "minecraft:deepslate_tiles",
+        "minecraft:sculk_vein",
+        "#minecraft:candles",
+        "#minecraft:fences",
+        "#minecraft:fire",
+        "#minecraft:logs",
+        "#minecraft:planks",
+        "#minecraft:slabs",
+        "#minecraft:stairs",
+        "#minecraft:walls",
+        "#minecraft:wool",
+        "#minecraft:wool_carpets"
+    ]
+}

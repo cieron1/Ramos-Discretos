@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "banova:nether_star"
+            }
+        }
+    },
+    "rewards": {
+        "function": "banova:ramos/anti_males/itens/estrela"
+    },
+    "sends_telemetry_event": false
+}

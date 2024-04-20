@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:clock"
+            }
+        }
+    },
+    "rewards": {
+        "function": "banova:ramos/anti_males/itens/relogio"
+    },
+    "sends_telemetry_event": false
+}

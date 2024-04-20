@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "minecraft:sugar_from_honey_bottle"
+            }
+        }
+    },
+    "rewards": {
+        "function": "banova:ramos/anti_males/itens/acucar"
+    },
+    "sends_telemetry_event": false
+}

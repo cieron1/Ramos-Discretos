@@ -1,0 +1,38 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "stepping_on": {
+                    "block": {
+                        "tag": "minecraft:sand"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "location": {
+                    "fluid": {
+                        "tag": "minecraft:lava"
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "location": {
+                    "block": {
+                        "tag": "minecraft:fire"
+                    }
+                }
+            }
+        }
+    ]
+}

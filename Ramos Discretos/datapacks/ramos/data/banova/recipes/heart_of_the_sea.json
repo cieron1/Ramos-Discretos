@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A#A",
+        "#X#",
+        "A#A"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:villager_plantable_seeds"
+        },
+        "X": {
+            "item": "minecraft:wheat"
+        },
+        "A": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:heart_of_the_sea"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "banova:heart_of_the_sea"
+            }
+        }
+    },
+    "rewards": {
+        "function": "banova:ramos/anti_males/itens/coracao"
+    },
+    "sends_telemetry_event": false
+}
